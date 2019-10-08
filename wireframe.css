@@ -1,7 +1,7 @@
 body {
   margin:0;
-  background-color: rgb(177, 176, 176);
-  padding: 10px;
+  background-color: rgb(241, 238, 238);
+  padding: 25px;
 }
 
 h1{
@@ -12,6 +12,7 @@ header {
   height:80px;
   color: white;
   margin-bottom: 55px;
+  border-color: 1px black;
 }
 
 
@@ -31,4 +32,15 @@ fieldset {
   margin:0 auto;
   background:rgba(255, 255, 255, 0.8);
   border-radius: 10px;
+}
+
+#div{
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.page{
+  text-align: center;
+  color: rgb(230, 56, 56);
 }
